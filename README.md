@@ -1,10 +1,15 @@
 # UKBANK
-UK Bank Data Analysis
-    Problem Statement: You have been hired by a Bank that is currently operating in United 
- Kingdom. The bank has asked you to help them to ease the process of analyzing its data. The    
- management has provided with a few queries for you to solve.
-# Description
 Problem Statement: You have been hired by a Bank that is currently operating in United 
- Kingdom. The bank has asked you to help them to ease the process of analyzing its data. The management has provided with a few queries for you to solve.
+Kingdom. The bank has asked you to help them to ease the process of analyzing its data. The    
+management has provided with a few queries for you to solve.
+Create a Map chart showing the number of transactions processed in each region.
+Create a Pie chart displaying the percentage of each transaction processed between genders.
+Create a Histogram displaying the distribution of age and transactions processed.
+Create a Histogram displaying the distribution of balance and transactions processed.
+Create a Tree-map displaying the number of transactions processed within the classification of each job.
+Create a Dashboard using all the charts. Make use of Action Filters as it will further improve the analyzing experience for the management.
+    (Refer to the dataset from the file:UK BANK DATA.csv)
+# Description
+This project analyzes UK Bank transaction data to simplify and improve the management’s decision-making process through interactive visualizations. Various charts were created, including a map chart to display transactions by region, a pie chart to show gender-wise transaction percentages, histograms to analyze transaction distribution by age and balance, and a tree map to represent transactions across different job classifications. All visualizations were integrated into a dynamic dashboard with action filters, enabling management to explore data efficiently and gain meaningful insights into transaction patterns and customer behavior.
 # Dashboard Link
 https://public.tableau.com/app/profile/mahalakshmi.n8725/viz/UKBANKDATA_17707845152670/Dashboard1?publish=yes
